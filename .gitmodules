@@ -1,0 +1,3 @@
+[submodule "csc275-final"]
+	path = csc275-final
+	url = git@github.com:johngillen/csc275-final

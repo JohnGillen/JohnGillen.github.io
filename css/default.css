@@ -1,0 +1,92 @@
+body {
+    background: #10181e;
+    color: #efefef;
+    font-family: 'Helvetica Neue', Lato, Noto, Roboto, sans-serif;
+    background-image: url("/img/background-tokyo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    height: 5.5em;
+    margin-top: 0.4em;
+    margin-left: 12px;
+}
+
+#title {
+    margin-right: 12px;
+}
+
+.container {
+    width: 45em;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    text-align: right;
+    margin-top: 12em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 6em;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main {
+    max-width: 45em;
+    margin: 0 auto;
+    margin-bottom: 8em;
+}
+
+.section {
+    background-color: #10181e;
+    padding: 1em;
+    margin-bottom: 2em;
+    border-top: 2px solid #ffaf6d;
+}
+
+a {
+    color: #ffaf6d;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 4.5em;
+    font-family: Alegreya, Merriweather, Lora, 'noto serif', serif;
+    font-weight: normal;
+    color: #ffaf6d;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 0.2em;
+}
+
+small {
+    font-size: 16px;
+    font-family: Alegreya, Merriweather, Lora, 'noto serif', serif;
+    color: #ffaf6d;
+    margin: 0 0;
+
+}
+
+h2 {
+    color: #a5a5a6;
+    font-size: 1.8em;
+    line-height: 24px;
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+}
+
+p {
+    color: #b9b9ba;
+    margin: 1em;
+}
+
+ul {
+    color: #b9b9ba;
+    margin-left: 1em;
+    padding-bottom: 1em;
+}
